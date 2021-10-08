@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "q60Jghny/9/o6vdxFMXyzuPrQyHkAxnBXZpA1IY7WLpMD74gUcdTwx1V/FGB2ddUJcjiUKrH6LxYNtobOQTgpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dandr\\RiderProjects\\Phoneword\\Phoneword\\Phoneword\\Phoneword.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dandr\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dandr\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

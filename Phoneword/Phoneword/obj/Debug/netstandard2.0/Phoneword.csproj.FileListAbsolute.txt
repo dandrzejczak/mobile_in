@@ -1,0 +1,12 @@
+C:\Users\dandr\RiderProjects\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csproj.AssemblyReference.cache
+C:\Users\dandr\RiderProjects\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dandr\RiderProjects\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dandr\RiderProjects\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfoInputs.cache
+C:\Users\dandr\RiderProjects\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfo.cs
+C:\Users\dandr\RiderProjects\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csproj.CoreCompileInputs.cache
+C:\Users\dandr\RiderProjects\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.deps.json
+C:\Users\dandr\RiderProjects\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.dll
+C:\Users\dandr\RiderProjects\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.pdb
+C:\Users\dandr\RiderProjects\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dandr\RiderProjects\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.dll
+C:\Users\dandr\RiderProjects\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.pdb

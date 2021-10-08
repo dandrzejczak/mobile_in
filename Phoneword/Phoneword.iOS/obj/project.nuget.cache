@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zdo8oYjan2C8zF/IqiWs/nNZyMc/66u1DjnnMgdXXpOTpW1lPR2fUCjNAgceIBvYf0isEltHlut7Ulyr0Q//Zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dandr\\RiderProjects\\Phoneword\\Phoneword\\Phoneword.iOS\\Phoneword.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
